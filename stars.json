@@ -1,8 +1,8 @@
 [
   {
     "full_name": "Zondax/filecoin-solidity",
-    "stargazers_count": 65,
-    "open_issues_count": 10,
+    "stargazers_count": 66,
+    "open_issues_count": 11,
     "forks_count": 28
   },
   {
@@ -14,7 +14,7 @@
   {
     "full_name": "JaisPiyush/arc-ip",
     "stargazers_count": 1,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 6676,
+    "stargazers_count": 6685,
     "open_issues_count": 0,
-    "forks_count": 1383
+    "forks_count": 1382
   }
 ]
