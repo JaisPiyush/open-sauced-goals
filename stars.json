@@ -1,8 +1,8 @@
 [
   {
     "full_name": "Zondax/filecoin-solidity",
-    "stargazers_count": 77,
-    "open_issues_count": 11,
+    "stargazers_count": 78,
+    "open_issues_count": 9,
     "forks_count": 31
   },
   {
@@ -21,12 +21,12 @@
     "full_name": "ChainAgnostic/namespaces",
     "stargazers_count": 23,
     "open_issues_count": 21,
-    "forks_count": 25
+    "forks_count": 27
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 6770,
+    "stargazers_count": 6784,
     "open_issues_count": 0,
-    "forks_count": 1392
+    "forks_count": 1394
   }
 ]
