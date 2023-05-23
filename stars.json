@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Zondax/filecoin-solidity",
-    "stargazers_count": 81,
+    "stargazers_count": 83,
     "open_issues_count": 11,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "hcheng826/arc-contracts",
@@ -20,13 +20,13 @@
   {
     "full_name": "ChainAgnostic/namespaces",
     "stargazers_count": 23,
-    "open_issues_count": 22,
-    "forks_count": 30
+    "open_issues_count": 25,
+    "forks_count": 33
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 6924,
-    "open_issues_count": 1,
-    "forks_count": 1415
+    "stargazers_count": 6936,
+    "open_issues_count": 0,
+    "forks_count": 1417
   }
 ]
