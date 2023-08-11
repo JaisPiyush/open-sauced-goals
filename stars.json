@@ -1,14 +1,14 @@
 [
   {
     "full_name": "EniasCailliau/GirlfriendGPT",
-    "stargazers_count": 2288,
+    "stargazers_count": 2303,
     "open_issues_count": 22,
-    "forks_count": 357
+    "forks_count": 360
   },
   {
     "full_name": "Zondax/filecoin-solidity",
     "stargazers_count": 91,
-    "open_issues_count": 17,
+    "open_issues_count": 10,
     "forks_count": 41
   },
   {
@@ -26,13 +26,13 @@
   {
     "full_name": "ChainAgnostic/namespaces",
     "stargazers_count": 29,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 43
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 7149,
+    "stargazers_count": 7158,
     "open_issues_count": 0,
-    "forks_count": 1466
+    "forks_count": 1468
   }
 ]
