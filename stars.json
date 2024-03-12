@@ -1,8 +1,8 @@
 [
   {
     "full_name": "beckn/protocol-specifications",
-    "stargazers_count": 321,
-    "open_issues_count": 23,
+    "stargazers_count": 323,
+    "open_issues_count": 24,
     "forks_count": 84
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "Zondax/filecoin-solidity",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 12,
     "forks_count": 42
   },
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 7833,
+    "stargazers_count": 7852,
     "open_issues_count": 0,
-    "forks_count": 1528
+    "forks_count": 1529
   }
 ]
