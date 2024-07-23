@@ -1,13 +1,13 @@
 [
   {
     "full_name": "beckn/protocol-specifications",
-    "stargazers_count": 343,
-    "open_issues_count": 33,
+    "stargazers_count": 344,
+    "open_issues_count": 35,
     "forks_count": 96
   },
   {
     "full_name": "EniasCailliau/GirlfriendGPT",
-    "stargazers_count": 2580,
+    "stargazers_count": 2581,
     "open_issues_count": 29,
     "forks_count": 432
   },
@@ -32,13 +32,13 @@
   {
     "full_name": "ChainAgnostic/namespaces",
     "stargazers_count": 47,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 59
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 8236,
+    "stargazers_count": 8253,
     "open_issues_count": 0,
-    "forks_count": 1582
+    "forks_count": 1583
   }
 ]
