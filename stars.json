@@ -1,7 +1,7 @@
 [
   {
     "full_name": "beckn/protocol-specifications",
-    "stargazers_count": 370,
+    "stargazers_count": 371,
     "open_issues_count": 36,
     "forks_count": 101
   },
@@ -9,7 +9,7 @@
     "full_name": "EniasCailliau/GirlfriendGPT",
     "stargazers_count": 2589,
     "open_issues_count": 29,
-    "forks_count": 437
+    "forks_count": 439
   },
   {
     "full_name": "Zondax/filecoin-solidity",
@@ -32,13 +32,13 @@
   {
     "full_name": "ChainAgnostic/namespaces",
     "stargazers_count": 53,
-    "open_issues_count": 26,
+    "open_issues_count": 24,
     "forks_count": 64
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 8452,
+    "stargazers_count": 8462,
     "open_issues_count": 0,
-    "forks_count": 1626
+    "forks_count": 1630
   }
 ]
