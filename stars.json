@@ -1,7 +1,7 @@
 [
   {
     "full_name": "beckn/protocol-specifications",
-    "stargazers_count": 375,
+    "stargazers_count": 376,
     "open_issues_count": 48,
     "forks_count": 101
   },
@@ -32,13 +32,13 @@
   {
     "full_name": "ChainAgnostic/namespaces",
     "stargazers_count": 52,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 65
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 8511,
+    "stargazers_count": 8514,
     "open_issues_count": 0,
-    "forks_count": 1634
+    "forks_count": 1635
   }
 ]
