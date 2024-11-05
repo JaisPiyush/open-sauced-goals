@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "kiwibrowser/src.next",
+    "stargazers_count": 2290,
+    "open_issues_count": 633,
+    "forks_count": 292
+  },
+  {
     "full_name": "beckn/protocol-specifications",
     "stargazers_count": 376,
     "open_issues_count": 48,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "EniasCailliau/GirlfriendGPT",
-    "stargazers_count": 2589,
+    "stargazers_count": 2588,
     "open_issues_count": 29,
     "forks_count": 440
   },
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 8514,
+    "stargazers_count": 8521,
     "open_issues_count": 0,
-    "forks_count": 1635
+    "forks_count": 1638
   }
 ]
