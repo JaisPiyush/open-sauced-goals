@@ -1,25 +1,25 @@
 [
   {
     "full_name": "kiwibrowser/src.next",
-    "stargazers_count": 2309,
-    "open_issues_count": 638,
+    "stargazers_count": 2314,
+    "open_issues_count": 639,
     "forks_count": 295
   },
   {
     "full_name": "beckn/protocol-specifications",
-    "stargazers_count": 387,
-    "open_issues_count": 46,
+    "stargazers_count": 390,
+    "open_issues_count": 44,
     "forks_count": 105
   },
   {
     "full_name": "EniasCailliau/GirlfriendGPT",
-    "stargazers_count": 2596,
+    "stargazers_count": 2600,
     "open_issues_count": 30,
-    "forks_count": 440
+    "forks_count": 441
   },
   {
     "full_name": "Zondax/filecoin-solidity",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 12,
     "forks_count": 43
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 8560,
+    "stargazers_count": 8569,
     "open_issues_count": 0,
-    "forks_count": 1645
+    "forks_count": 1649
   }
 ]
