@@ -1,9 +1,9 @@
 [
   {
     "full_name": "yamcs/yamcs",
-    "stargazers_count": 271,
-    "open_issues_count": 119,
-    "forks_count": 110
+    "stargazers_count": 272,
+    "open_issues_count": 120,
+    "forks_count": 111
   },
   {
     "full_name": "kevmo314/scuda",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "Significant-Gravitas/AutoGPT",
-    "stargazers_count": 183835,
-    "open_issues_count": 396,
-    "forks_count": 46231
+    "stargazers_count": 183912,
+    "open_issues_count": 403,
+    "forks_count": 46238
   },
   {
     "full_name": "kiwibrowser/src.next",
-    "stargazers_count": 3714,
+    "stargazers_count": 3728,
     "open_issues_count": 654,
-    "forks_count": 621
+    "forks_count": 624
   },
   {
     "full_name": "beckn/protocol-specifications",
@@ -33,7 +33,7 @@
     "full_name": "EniasCailliau/GirlfriendGPT",
     "stargazers_count": 2688,
     "open_issues_count": 20,
-    "forks_count": 455
+    "forks_count": 454
   },
   {
     "full_name": "Zondax/filecoin-solidity",
@@ -56,13 +56,13 @@
   {
     "full_name": "ChainAgnostic/namespaces",
     "stargazers_count": 75,
-    "open_issues_count": 36,
+    "open_issues_count": 37,
     "forks_count": 105
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 9927,
+    "stargazers_count": 9934,
     "open_issues_count": 0,
-    "forks_count": 1924
+    "forks_count": 1925
   }
 ]
