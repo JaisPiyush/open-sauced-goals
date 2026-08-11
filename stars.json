@@ -1,27 +1,27 @@
 [
   {
     "full_name": "yamcs/yamcs",
-    "stargazers_count": 296,
-    "open_issues_count": 114,
+    "stargazers_count": 298,
+    "open_issues_count": 116,
     "forks_count": 114
   },
   {
     "full_name": "lupinemachines/lupine",
-    "stargazers_count": 2372,
-    "open_issues_count": 6,
+    "stargazers_count": 2375,
+    "open_issues_count": 11,
     "forks_count": 131
   },
   {
     "full_name": "Significant-Gravitas/AutoGPT",
-    "stargazers_count": 186079,
-    "open_issues_count": 506,
-    "forks_count": 46055
+    "stargazers_count": 186507,
+    "open_issues_count": 685,
+    "forks_count": 46082
   },
   {
     "full_name": "kiwibrowser/src.next",
-    "stargazers_count": 3928,
+    "stargazers_count": 3939,
     "open_issues_count": 654,
-    "forks_count": 685
+    "forks_count": 690
   },
   {
     "full_name": "beckn/protocol-specifications",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 10195,
+    "stargazers_count": 10209,
     "open_issues_count": 0,
-    "forks_count": 1965
+    "forks_count": 1968
   }
 ]
